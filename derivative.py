@@ -4,6 +4,7 @@ def derivate(*args):
     Example args: [1, 4, 2] # A list dynamically made of all the provided params
     Args are dynamic, and work no matter the length of the list
     """
+    
     res = []
     for index, arg in enumerate(args):
         """
