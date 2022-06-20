@@ -1,4 +1,4 @@
-def derivate(*args):
+def derive(*args):
     """
     This function returns the derivative of an equation
     Example args: [1, 4, 2] # A list dynamically made of all the provided params
